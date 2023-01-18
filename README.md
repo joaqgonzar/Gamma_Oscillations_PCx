@@ -3,7 +3,7 @@
 This repository contains all python codes to reproduce Figures 1-7 of Gonzalez, et al, 2023. 
 "Mechanisms and functions of respiration-driven gamma oscillations in the primary olfactory cortex"
 
-The datasets should be downloaded from: (https://crcns.org/data-sets/pcx/pcx-1). The downsampled LFPs are available at: (https.direction.com)
+The datasets should be downloaded from: (https://crcns.org/data-sets/pcx/pcx-1).
 
 All codes start from the raw data, run all analysis, and plot the figures from the paper.
 
